@@ -1,1 +1,4 @@
+baseURL: https://jybx.github.io/
+languageCode: en-us
+title: jybx
 theme: ["newsroom"]
