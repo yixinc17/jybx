@@ -1,4 +1,5 @@
-exampleSite/public
+node_modules
+public
 docs
 yarn.lock
 .DS_Store
