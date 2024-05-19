@@ -2,3 +2,7 @@ baseURL: https://jybx.github.io/
 languageCode: en-us
 title: jybx
 theme: ["newsroom"]
+
+
+# If you want to use disqus, uncomment the line below
+disqusShortname: "yourdiscussshortname"
